@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Vibrometer Companion App</string>
+    <string name="btDescrip">Connect to Arduino Module using Bluetooth!</string>
+    <string name="gAnalysisBT">Go To Graphical Analysis Page</string>
+    <string name="gAnalysisHead">Graphical Analysis</string>
+    <string name="backButton">Go Back</string>
+    <string name="gAnalysisDescrip">Choose the required dimensional analysis.</string>
+    <string name="oneDimeHead">One Dimensional Analysis</string>
+    <string name="twoDimeHead">Two Dimensional Analysis</string>
+    <string name="spinSideText">What to graph ?</string>
+
+    <string-array name="spin1d">
+        <item>Data Points</item>
+        <item>Z Analysis</item>
+    </string-array>
+
+    <string-array name="spin2d">
+        <item>Data Points</item>
+        <item>Overall Vibration</item>
+        <item>X Vibration</item>
+        <item>Y Vibration</item>
+    </string-array>
+
+
+</resources>
