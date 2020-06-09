@@ -5,15 +5,23 @@
     <string name="gAnalysisHead">Graphical Analysis</string>
     <string name="backButton">Go Back</string>
     <string name="gAnalysisDescrip">Choose the required dimensional analysis.</string>
-    <string name="oneDimeHead">One Dimensional Analysis</string>
-    <string name="twoDimeHead">Two Dimensional Analysis</string>
+    <string name="oneDimeHead">X - Analysis</string>
+    <string name="oneDimeFFT">Dominant Frequency calculated using FFT is :</string>
+    <string name="oneDimeFFTvalue">120</string>
+    <string name="oneDimeFFT2">Amplitude of the Dominant Frequency is :</string>
+    <string name="oneDimeFFT2value">0.98</string>
+    <string name="twoDimeHead">Y - Analysis</string>
+    <string name="threeDimeHead">Z - Analysis</string>
     <string name="spinSideText">What to graph ?</string>
 
+    <string name="title_activity_extra_test">ExtraTest</string>
+
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
     <string-array name="spin1d">
         <item>Data Points</item>
         <item>Z Analysis</item>
     </string-array>
-
     <string-array name="spin2d">
         <item>Data Points</item>
         <item>Overall Vibration</item>
