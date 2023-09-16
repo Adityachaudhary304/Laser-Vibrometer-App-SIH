@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Vibrometer Companion App</string>
+    <string name="btDescrip">Connect to Arduino Module using Bluetooth!</string>
+
+    <string name="backButton">Go Back</string>
+    <string name="compareButton">Comparative Analysis</string>
+
+    <string name="gAnalysisBT">Go To Graphical Analysis Page</string>
+    <string name="gCalibrationBT">Calibrate the Device</string>
+    <string name="gAnalysisHead">Vibration Monitoring</string>
+    <string name="gAnalysisDescrip">Choose the required dimensional analysis.</string>
+
+    <string name="eAnalysisHead">Graphical Analysis</string>
+    <string name="eAnalysisDescrip">Choose the appropriate option.</string>
+
+    <string name="calibHead">Device Calibration</string>
+
+    <string name="oneDimeHead">X - Analysis</string>
+    <string name="oneDimeFFT">Dominant Frequency calculated using FFT is :</string>
+    <string name="oneDimeFFTvalue"> </string>
+    <string name="oneDimeFFT2">Amplitude of the Dominant Frequency is :</string>
+    <string name="oneDimeFFT2value"> </string>
+
+    <string name="twoDimeHead">Y - Analysis</string>
+    <string name="threeDimeHead">Z - Analysis</string>
+    <string name="spinSideText">What to graph ?</string>
+
+    <string name="title_activity_extra_test">ExtraTest</string>
+
+    <string name="tab_text_1">Monitoring Data</string>
+    <string name="tab_text_2">Calibrated Data</string>
+    <string name="frag1Head">Monitoring Data</string>
+    <string name="frag2Head">Calibrated Data</string>
+
+    <string name="title_activity_comparison">ComparisonActivity</string>
+    <string-array name="spin1d">
+        <item>Data Points</item>
+        <item>Z Analysis</item>
+    </string-array>
+    <string-array name="spin2d">
+        <item>Data Points</item>
+        <item>Overall Vibration</item>
+        <item>X Vibration</item>
+        <item>Y Vibration</item>
+    </string-array>
+
+
+</resources>
